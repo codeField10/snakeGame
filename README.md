@@ -1,2 +1,2 @@
 # snakeGame
-<img src="https://raw.githubusercontent.com/rajdeep1022/rajdeep1022/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codeField10/codeField10/output/snake.svg" alt="Snake animation" />
